@@ -1,0 +1,89 @@
+hi chatGPT my name is Franklin Okeke a full stack developer. i want you to build a portfolio website for me. let the portfolio followe the order below:
+
+1. Navbar section
+
+- add and F logo with my name Franklin Okeke at the top left of the navbar
+
+- add links like Home, services, skills and projects in a link and scrolling to each section when clicked at the center
+
+- add a call button with my number on the top right hand side.
+
+ - make the navbar to be stick even while scrolling down and make it responsive in all devices. in mobile hide the navbar links, only display name and logo at the left and a hamburger at the right
+
+2. Hero section
+
+- divide the hero section into two parts.
+
+- at the left hand side begin with Hi my name is Franklin Okeke, under it a full stack developer
+
+- below it add a good profile of me like i am a passionate full stack developer etc
+
+- add icon and link to all my social media channels.
+
+- under it add a CTA button with caption download resume and a give a link to download my resume
+
+- at the right hand section add an image of me
+
+- let the hero section take full height and align them properly, and add unique padding to all sections
+
+3.Services section
+
+- write my services in bold aligned at the center with a description in paragraph tag under it
+
+- add four services card of Frontend developer, backend developer, AI developer and electrical engineer. each with its name in bold, description and a good icon to represent it.
+
+- make the services card also responsive in all devices with a good hover effect
+
+4. Skills section
+
+- write skills/technical competence in bold aligned at center with description under it
+
+- list all skils of a full stack and AI developer with good animation, e.g javascript, Reactjs, Nextjs, git/Github data annotation, etc
+
+- under it you can add number of project completed 30+, client satisfaction 100%, years of experience 3+, linkedin followers 250+ etc.
+
+5. Project section
+
+-write recent projects in bold aligned at center with description under it
+
+-Include projects completed in the program. Each program should have its own card box
+
+
+
+Each card box should show a high level summary of what the project set out to solve 
+
+
+
+It should also show how you went about it from design to coding to delivery
+
+- add a gihub icon on the top right of the project card so when clicked directs to github and when clicked on the project card takes to the live url
+
+- add the title of the project in bold, image and description and below it add technologies used
+
+- add atleast 8 projects card each with its name description and technologies used.
+
+6. Contact section
+
+-add a contact aligned in center with description under
+
+- create a form to collect user name, email, phone and the message with a button
+
+- at the right add my contact address, email, phone and all mu social links
+
+7.Education section
+
+-add an education section with the small image of the school logo
+
+-add dates attended and the degree earned
+
+-equally add that i am currentle in training learning full stack and AI with turingtechllc inpartnership with enugu state ESME
+
+8. Footer aection
+
+-add the navbar links at the left hand side, add socila links at the middle of the footer and contact info at the right hand side of the footer.
+
+-below it with line demacating write all right reserved, my name and year.
+
+-make the whole portfolio responsive and eye catching
+
+- build me this using html and tailwindcss

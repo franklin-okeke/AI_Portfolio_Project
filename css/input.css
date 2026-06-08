@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+
+html{
+scroll-behavior:smooth;
+}
+
+.glass{
+backdrop-filter: blur(10px);
+background: rgba(255,255,255,.05);
+}
+
